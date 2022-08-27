@@ -1,29 +1,29 @@
 {
-"ownerNumber": ["6281575886399@s.whatsapp.net"],
-"ownerName": ["Riy"],
-"botName": "Hinata-Md",
-"packname": "Hinata-Md",
-"author": "© Riy04",
+"ownerNumber": ["6283131688812@s.whatsapp.net"],
+"ownerName": ["Ainuddin"],
+"botName": "AinXD-Bot",
+"packname": "AinXD-Bot",
+"author": "© Aindd",
 "sessionName": "session",
 "pathimg": "./media/hinata.jpg",
 
 "medsos": {
-"youtube": "https://youtube.com/c/Riy04",
-"instagram": "https://instagram.com/riychdwayne"
+"youtube": "https://youtube.com/channel/UCQxt8i0k0IfJdNB2FCtzYAg",
+"instagram": "https://instagram.com/aiinuddin_"
 },
 
 "donasi": {
-"saweria": "https://saweria.co/Riy20",
-"dana": "081575886399",
-"AN_dana": "Riy 04",
-"gopay": "081575886399",
-"AN_gopay": "Riy 04"
+"saweria": "https://saweria.co",
+"dana": "082258255356",
+"AN_dana": "Ainuddin",
+"gopay": "082258255356",
+"AN_gopay": "Ainuddin"
 },
 
 "gamewaktu": 90,
-"limitCount": 25,
+"limitCount": 30,
 "gcount": {
 "prem": 35,
-"user": 15
+"user": 100
 }
 }
